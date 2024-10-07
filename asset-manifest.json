@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ws101-adam-landingpage/static/css/main.c3a5429e.css",
-    "main.js": "/ws101-adam-landingpage/static/js/main.c71a7ebc.js",
+    "main.css": "/ws101-adam-landingpage/static/css/main.34d3126d.css",
+    "main.js": "/ws101-adam-landingpage/static/js/main.96ee7cbb.js",
     "index.html": "/ws101-adam-landingpage/index.html",
-    "main.c3a5429e.css.map": "/ws101-adam-landingpage/static/css/main.c3a5429e.css.map",
-    "main.c71a7ebc.js.map": "/ws101-adam-landingpage/static/js/main.c71a7ebc.js.map"
+    "main.34d3126d.css.map": "/ws101-adam-landingpage/static/css/main.34d3126d.css.map",
+    "main.96ee7cbb.js.map": "/ws101-adam-landingpage/static/js/main.96ee7cbb.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3a5429e.css",
-    "static/js/main.c71a7ebc.js"
+    "static/css/main.34d3126d.css",
+    "static/js/main.96ee7cbb.js"
   ]
 }
