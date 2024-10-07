@@ -1,5 +1,5 @@
 {
-  "homepage":"http://warebar.github.io/ws101-adam-landingpage",
+  "homepage": "http://warebar.github.io/ws101-adam-landingpage",
   "name": "ws101-adam-landingpage",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -19,7 +20,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
   },
   "eslintConfig": {
     "extends": [
