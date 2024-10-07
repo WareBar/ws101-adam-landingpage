@@ -239,3 +239,16 @@ section{
   color: transparent;
   transform: scale(1.2);
 }
+
+
+.NoPage h1{
+  font-size: 5em;
+}
+
+
+footer{
+  font-weight: bold;
+  padding: 10px;
+  background-color: rgba(50, 40, 80, 1.0);
+  color: whitesmoke;
+}
